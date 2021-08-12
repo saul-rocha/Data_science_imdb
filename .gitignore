@@ -1,2 +1,5 @@
 
 imdb.db
+downloads/name.basics.tsv.gz
+*.gz
+.ipynb_checkpoints/mini-projeto-imdb-checkpoint.ipynb
